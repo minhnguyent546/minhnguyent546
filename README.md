@@ -1,6 +1,6 @@
 Hi! I am **Minh-Thien Nguyen**, an AI Research Engineer specializing in **Natural Language Processing (NLP)** and **Deep Learning**.
 
-My research interests include Embedding Models, Image-Text Retrieval for Vietnamese, Optimal Transport, Retrieval-Augmented Generation (RAG), and Image Classification. Additionally, I work on personal projects involving distributed training, TPU model training, and RAG architectures for complex document multiple-choice QA.
+My research interests include Inference-Time Scaling, Symbolic Reasoning, High-performance Model Serving, Embedding Models, Image-Text Retrieval for Vietnamese, Optimal Transport, Retrieval-Augmented Generation (RAG), and Image Classification. Additionally, I work on personal projects involving distributed training, TPU model training, and RAG architectures for complex document multiple-choice QA.
 
 **My publications:**
 - **ViCLIP-OT** [[arXiv preprint](https://arxiv.org/abs/2602.22678) | [Code](https://github.com/minhnguyent546/ViCLIP-OT)]: *The First Foundation Vision-Language Model for Vietnamese Image–Text Retrieval with Optimal Transport*.
