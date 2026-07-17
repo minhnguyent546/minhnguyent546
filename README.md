@@ -11,6 +11,7 @@ My research interests include Embedding Models, Image-Text Retrieval for Vietnam
 - **Viettel AI Race 2025** [[Code](https://github.com/minhnguyent546/viettel-ai-race-vbkt)]: Multiple-Choice Question Answering (MCQA) Pipeline for Complex Technical Documents.
 
 **Some of my best projects include:**
+- [ViREx-Bench](https://github.com/minhnguyent546/ViREx-Bench): A framework for inference-time scaling on Vietnamese reasoning tasks.
 - [seas](https://github.com/minhnguyent546/seas): SEAS - A Smart Enrollment Advisory System for Can Tho University, built with async FastAPI, async SQLAlchemy, and async Qdrant.
 - [medical-llama2](https://github.com/minhnguyent546/medical-llama2): [Med-Alpaca-2-7b-chat](https://huggingface.co/spaces/minhnguyent546/Med-Alpaca-2-7b-chat) - A medical chatbot fine-tuned from the LLaMA 2 7B model.
 - [pre-training-gpt2](https://github.com/minhnguyent546/pre-training-gpt2): An end-to-end workflow for pre-training a GPT-2 model from scratch, with a focus on scalable training on XLA-enabled devices via [PyTorch/XLA](https://github.com/pytorch/xla) (CUDA and TPU).
