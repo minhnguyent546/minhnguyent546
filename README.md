@@ -2,12 +2,12 @@ Hi! I am **Minh-Thien Nguyen**, an AI Research Engineer specializing in **Natura
 
 My research interests include Inference-Time Scaling, Symbolic Reasoning, High-performance Model Serving, Embedding Models, Image-Text Retrieval for Vietnamese, Optimal Transport, Retrieval-Augmented Generation (RAG), and Image Classification. Additionally, I work on personal projects involving distributed training, TPU model training, and RAG architectures for complex document multiple-choice QA.
 
-**My publications:**
+**Publications:**
 - **ViCLIP-OT** [[arXiv preprint](https://arxiv.org/abs/2602.22678) | [Code](https://github.com/minhnguyent546/ViCLIP-OT)]: *The First Foundation Vision-Language Model for Vietnamese Image–Text Retrieval with Optimal Transport*.
 - **soups** [[arXiv](https://arxiv.org/abs/2603.02181) | [Code](https://github.com/minhnguyent546/soups)]: *Leveraging Model Soups to Classify Intangible Cultural Heritage Images from the Mekong Delta*.
 
 **Competitions:**
-- **EXACT 2026** [[Code](https://github.com/minhnguyent546/EXACT-2026-CoTu) | [arXiv](https://arxiv.org/pdf/2607.14735)]: Achived **highest technical score** (3rd overall) in the 2nd International XAI Challenge for Transparent Educational Question-Answering (EXACT 2026), IEEE IJCNN 2026 Competition.
+- **EXACT 2026** [[Code](https://github.com/minhnguyent546/EXACT-2026-CoTu) | [Technical report](https://arxiv.org/pdf/2607.14735)]: Achived **highest technical score** (3rd overall) in the 2nd International XAI Challenge for Transparent Educational Question-Answering (EXACT 2026), IEEE IJCNN 2026 Competition.
 - **Viettel AI Race 2025** [[Code](https://github.com/minhnguyent546/viettel-ai-race-vbkt)]: Multiple-Choice Question Answering (MCQA) Pipeline for Complex Technical Documents.
 
 **Some of my best projects include:**
