@@ -3,8 +3,8 @@ Hi! I am **Minh-Thien Nguyen**, an **AI Researcher** working on Language Models,
 My main focus is **Neuro-symbolic Reasoning**, **Inference-time Scaling**, and **Multi-modal Representation Learning**. I also work on embedding models, Vietnamese image-text retrieval, optimal transport, and retrieval-augmented generation (RAG). On the engineering side, I have built personal projects on distributed and TPU training and on RAG over complex technical documents.
 
 **Publications:**
+- **ViCLIP-OT** [[arXiv](https://arxiv.org/abs/2602.22678) • [Code](https://github.com/minhnguyent546/ViCLIP-OT)]: *A Structure-Aware Vision-Language Model for Vietnamese Image-Text Retrieval*. Accepted at Machine Vision and Applications (SCIE, Scopus Q2).
 - **CoTu at EXACT 2026** [[arXiv](https://arxiv.org/abs/2607.14735) • [Code](https://github.com/minhnguyent546/EXACT-2026-CoTu)]: *Neuro-Symbolic Reasoning for Transparent Educational QA*. Accepted at CSoNet 2026, Special Session: EXACT Competition, Springer LNCS.
-- **ViCLIP-OT** [[arXiv](https://arxiv.org/abs/2602.22678) • [Code](https://github.com/minhnguyent546/ViCLIP-OT)]: *A Structure-Aware Vision-Language Model for Vietnamese Image-Text Retrieval*. Under review at Machine Vision and Applications.
 - **soups** [[arXiv](https://arxiv.org/abs/2603.02181) • [DOI](https://doi.org/10.32913/mic-ict-research.v2025.n3.1395) • [Code](https://github.com/minhnguyent546/soups)]: *Leveraging Model Soups to Classify Intangible Cultural Heritage Images from the Mekong Delta*. Journal on Information Technologies and Communications (ICT Research), Vol. 2025 No. 3.
 
 **Competitions:**
