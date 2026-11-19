@@ -8,6 +8,8 @@ My main focus is **Neuro-symbolic Reasoning**, **Inference-time Scaling**, and *
 - **soups** [[arXiv](https://arxiv.org/abs/2603.02181) • [DOI](https://doi.org/10.32913/mic-ict-research.v2025.n3.1395) • [Code](https://github.com/minhnguyent546/soups)]: *Leveraging Model Soups to Classify Intangible Cultural Heritage Images from the Mekong Delta*. Journal on Information Technologies and Communications (ICT Research), Vol. 2025 No. 3.
 
 **Competitions:**
+- **Zalo AI Challenge 2026**: Tool-calling agent for Vietnamese question answering over business data. Scored 0.856 Penalized Accuracy on the public leaderboard.
+- **VLSP 2026**: Numerical reasoning QA over Vietnamese financial reports, generating executable programs from text, tables, and charts with a 4B vision-language model and rejection-sampling SFT. 67.13% program accuracy on the private test.
 - **EXACT 2026** [[Code](https://github.com/minhnguyent546/EXACT-2026-CoTu) • [Technical report](https://arxiv.org/abs/2607.14735) • [Leaderboard](https://exact-ijcnn.vercel.app/leaderboard)]: Achieved the **highest technical score** of any team (13.44/15) and placed **3rd of 50 teams** overall in the 2nd International XAI Challenge for Transparent Educational Question-Answering, IEEE IJCNN 2026 Competition.
 - **Viettel AI Race 2025** [[Code](https://github.com/minhnguyent546/viettel-ai-race-vbkt)]: Multiple-Choice Question Answering (MCQA) Pipeline for Complex Technical Documents. **Top 3** on the public leaderboard in rounds 2 and 3.
 
